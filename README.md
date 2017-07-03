@@ -1,10 +1,13 @@
-# Because Fuck Past Exams without Sample Solutions!
-This repository contains possibly correct solutions to problems of past exams of the *Moderne Physik für Informatiker* course at [KIT](http://kit.edu).
+# Because Fuck Past Exams Without Sample Solutions!
+This repository contains possibly correct solutions to problems of past exams of the [*Moderne Physik für Informatiker*](https://www.itp.kit.edu/courses/ss2017/mpfi) course at [KIT](http://kit.edu). Unfortunately, there are no sample solutions for the few past exams. In this repository, we share the solutions we came up with.
 
-# License
-Everything in this repository is licensed under the WTFPL version 2 (license text: see below). Each person contributing to this project is responsible for only adding content which they can and by adding it to the repository do license under the WTFPL version 2.
+## Contributions
+If you came up with solutions yourself, please supply them by creating a pull request. But please make sure you agree with our [licensing](#license) first. By contributing to this repository, you agree to license your contributions under the same license.
 
-## License Text
+## License
+Everything in this repository is licensed under the WTFPL version 2. Each person contributing to this project is responsible for only adding content which they can and by adding it to the repository do license under the WTFPL version 2.
+
+### License Text
 ```
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
